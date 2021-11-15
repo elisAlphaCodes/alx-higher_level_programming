@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-str = "The Zen of Python, by Tim Peters\n\nBeautiful is better than\
+str = "The Zen of Python, by Tim Peters\n\nBeautiful is better than \
 ugly.\nExplicit is better than implicit.\nSimple is better than \
 complex.\nComplex is better than complicated.\nFlat is better \
 than nested.\nSparse is better than dense.\nReadability counts.\nSpecial \
